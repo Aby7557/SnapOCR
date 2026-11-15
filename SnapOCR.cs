@@ -34,8 +34,8 @@ using Windows.Media.Ocr;
 [assembly: AssemblyTitle("SnapOCR")]
 [assembly: AssemblyDescription("微信式截图 · 标注 · 离线 OCR · 翻译")]
 [assembly: AssemblyProduct("SnapOCR")]
-[assembly: AssemblyCompany("Aby7557")]
-[assembly: AssemblyCopyright("Copyright (C) 2026 Aby7557")]
+[assembly: AssemblyCompany("Ty")]
+[assembly: AssemblyCopyright("Copyright (C) 2026 Ty")]
 [assembly: AssemblyVersion("1.1.0.0")]
 [assembly: AssemblyFileVersion("1.1.0.0")]
 
@@ -2045,7 +2045,7 @@ class AboutForm : Form
         AppendText("· 图标+文字 / 仅图标 / 仅文字 三种样式，点托盘菜单即可切换\n", false, dim, 11.5f);
         AppendText("\n", false, body, 4);
         AppendText("■ 关于\n", true, head, 13);
-        AppendText("作者：Aby7557\n", false, body, 12);
+        AppendText("作者：Ty\n", false, body, 12);
         AppendText("项目主页：github.com/Aby7557/SnapOCR\n", false, dim, 11.5f);
         AppendText("问题反馈：github.com/Aby7557/SnapOCR/issues\n", false, dim, 11.5f);
         _rtb.SelectionStart = 0;

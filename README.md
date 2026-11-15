@@ -96,6 +96,6 @@ SnapOCR\SnapOCR.exe    成品（~48KB）
 
 ## 作者
 
-**Aby7557** · [github.com/Aby7557](https://github.com/Aby7557)
+**Ty** · [github.com/Aby7557](https://github.com/Aby7557)
 
 问题反馈请提 [Issue](https://github.com/Aby7557/SnapOCR/issues)，觉得好用点个 Star ⭐
