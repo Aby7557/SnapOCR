@@ -1,0 +1,19 @@
+# Build output
+*.log
+
+# Visual Studio / Rider
+.vs/
+.idea/
+bin/
+obj/
+*.user
+*.suo
+
+# Temporary / backup
+*.tmp
+*~
+*.bak
+
+# OS
+Thumbs.db
+.DS_Store
