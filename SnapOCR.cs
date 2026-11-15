@@ -32,8 +32,10 @@ using Windows.Graphics.Imaging;
 using Windows.Media.Ocr;
 
 [assembly: AssemblyTitle("SnapOCR")]
-[assembly: AssemblyDescription("截图 + OCR + 翻译")]
+[assembly: AssemblyDescription("微信式截图 · 标注 · 离线 OCR · 翻译")]
 [assembly: AssemblyProduct("SnapOCR")]
+[assembly: AssemblyCompany("Aby7557")]
+[assembly: AssemblyCopyright("Copyright (C) 2026 Aby7557")]
 [assembly: AssemblyVersion("1.1.0.0")]
 [assembly: AssemblyFileVersion("1.1.0.0")]
 
@@ -2041,6 +2043,11 @@ class AboutForm : Form
         AppendText("· 框选时右下角放大镜可放大查看像素并取色\n", false, body, 12);
         AppendText("· OCR 与标注离线可用；翻译走 Bing 服务，需要联网\n", false, body, 12);
         AppendText("· 图标+文字 / 仅图标 / 仅文字 三种样式，点托盘菜单即可切换\n", false, dim, 11.5f);
+        AppendText("\n", false, body, 4);
+        AppendText("■ 关于\n", true, head, 13);
+        AppendText("作者：Aby7557\n", false, body, 12);
+        AppendText("项目主页：github.com/Aby7557/SnapOCR\n", false, dim, 11.5f);
+        AppendText("问题反馈：github.com/Aby7557/SnapOCR/issues\n", false, dim, 11.5f);
         _rtb.SelectionStart = 0;
         _rtb.SelectionLength = 0;
     }

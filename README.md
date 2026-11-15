@@ -93,3 +93,9 @@ SnapOCR\build.cmd      编译脚本
 SnapOCR\app.manifest   DPI 感知清单
 SnapOCR\SnapOCR.exe    成品（~48KB）
 ```
+
+## 作者
+
+**Aby7557** · [github.com/Aby7557](https://github.com/Aby7557)
+
+问题反馈请提 [Issue](https://github.com/Aby7557/SnapOCR/issues)，觉得好用点个 Star ⭐
