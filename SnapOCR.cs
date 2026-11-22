@@ -1,4 +1,4 @@
-// SnapOCR —— 微信式截图 + 提取文字(OCR) + 翻译
+// SnapOCR —— 截图 + 提取文字(OCR) + 翻译
 // 零依赖单文件 C# 应用：使用系统自带 .NET Framework 4.8 编译（build.cmd），无需安装任何运行时。
 //   截图   : GDI CopyFromScreen（DPI 感知，支持多显示器）
 //   OCR    : Windows 10 内置 Windows.Media.Ocr（离线）
